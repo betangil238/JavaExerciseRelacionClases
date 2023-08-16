@@ -129,12 +129,5 @@ public class Baraja {
 		}while(opcion!=0);
 		
 	}
-	
-	
-	
-
-
-	
-	
 
 }
