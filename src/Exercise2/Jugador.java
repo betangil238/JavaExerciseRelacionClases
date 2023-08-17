@@ -1,7 +1,7 @@
 package Exercise2;
 
 public class Jugador {
-	private static int id=1;
+public static int id=1;
 	private String nombre="Jugador "+id;
 	private boolean mojado=false;
 	
